@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 364</string>
+		<key>name</key>
+		<string>메디아트의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 304</string>
+		<key>name</key>
+		<string>수미지이비인후과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 용호로 189-2</string>
+		<key>name</key>
+		<string>그린 마취 통증의학과 의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 분포로 113</string>
+		<key>name</key>
+		<string>일신소아청소년과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 209</string>
+		<key>name</key>
+		<string>THE밝은안과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 230</string>
+		<key>name</key>
+		<string>새롬이비인후과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 216</string>
+		<key>name</key>
+		<string>이화여성아동의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 275</string>
+		<key>name</key>
+		<string>마리여성의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 297</string>
+		<key>name</key>
+		<string>킴스피부과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 298</string>
+		<key>name</key>
+		<string>샤론의꽃의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 홍곡로 17</string>
+		<key>name</key>
+		<string>센텀연합의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로250번가길 26</string>
+		<key>name</key>
+		<string>미래의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 분포로 113</string>
+		<key>name</key>
+		<string>신진근이비인후과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 전포대로92번길 6</string>
+		<key>name</key>
+		<string>참사랑의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 300</string>
+		<key>name</key>
+		<string>미소래의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 27</string>
+		<key>name</key>
+		<string>김갑진신경과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 유엔로 14</string>
+		<key>name</key>
+		<string>한길내과의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 수영로 304</string>
+		<key>name</key>
+		<string>클린앤뷰티의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 용호로 129</string>
+		<key>name</key>
+		<string>성찬의원</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 남구 용호로 50</string>
+		<key>name</key>
+		<string>클라쎄피부과의원</string>
+	</dict>
+</array>
+</plist>
