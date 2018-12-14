@@ -17,6 +17,7 @@
 		3C1F8CD921C35C780025B169 /* TotalMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1F8CD821C35C780025B169 /* TotalMapViewController.swift */; };
 		3C1F8CDB21C35C850025B169 /* DetailMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1F8CDA21C35C850025B169 /* DetailMapViewController.swift */; };
 		3C1F8CDE21C36C140025B169 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C1F8CDD21C36C140025B169 /* MapKit.framework */; };
+		3C1F8CE021C3725E0025B169 /* hos.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C1F8CDF21C3725E0025B169 /* hos.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3C1F8CD821C35C780025B169 /* TotalMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalMapViewController.swift; sourceTree = "<group>"; };
 		3C1F8CDA21C35C850025B169 /* DetailMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMapViewController.swift; sourceTree = "<group>"; };
 		3C1F8CDD21C36C140025B169 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		3C1F8CDF21C3725E0025B169 /* hos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hos.png; path = ../../../hos.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		3C1F8CC121C357580025B169 /* Busan Namgu Hospital */ = {
 			isa = PBXGroup;
 			children = (
+				3C1F8CDF21C3725E0025B169 /* hos.png */,
 				3C1F8CD421C35A780025B169 /* Busan.plist */,
 				3C1F8CD521C35A780025B169 /* map.png */,
 				3C1F8CC221C357580025B169 /* AppDelegate.swift */,
@@ -146,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C1F8CE021C3725E0025B169 /* hos.png in Resources */,
 				3C1F8CD621C35A790025B169 /* Busan.plist in Resources */,
 				3C1F8CCD21C3575C0025B169 /* LaunchScreen.storyboard in Resources */,
 				3C1F8CD721C35A790025B169 /* map.png in Resources */,
