@@ -20,6 +20,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         myTableView.delegate = self
         myTableView.dataSource = self
 
+        self.title = "부산 남구 병원"
         
         // 데이터 로드
         let path = Bundle.main.path(forResource: "Busan", ofType: "plist")
